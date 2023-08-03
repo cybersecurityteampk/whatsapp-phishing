@@ -1,18 +1,19 @@
 # Disclaimer
-This tool i provide you only for educational purpose if you use for wrong purpose you will be responsible
+This tool I provide you only for educational purposes if you use for the wrong purpose you will be responsible
 
 # OTP Bypass Instructions
-When victim enter his credentials, you need to go to original website and use those credentials to send real OTP to victim. Once he enter that OTP such OTP will also be there with you and you will be allowed to login the account before him.
+When the victim enters his credentials, you need to go to the original website and use those credentials to send real OTP to the victim. Once he enters that OTP such OTP will also be there with you and you will be allowed to log in to the account before him.
 
-# whatsapp-phishing
-the best tool for whatsapp-phishing with otp Bypass
+# WhatsApp-phishing
+the best tool for WhatsApp phishing with otp-Bypass
 
 # Servers
 use ssh server
-use cloudflared server
-first start php server on localhost then expose localhost to internet
+use Cloudflare server
+first, start the php server on localhost 
+then expose localhost to the internet
 
 # Conatcs and Social
 WhatsApp +923348361065
-youtube   youtube.com/@cybersecurityteampk
-facebook  facebook.com/itteampk
+Youtube   https://youtube.com/@cybersecurityteampk
+Facebook  https://facebook.com/itteampk
